@@ -967,6 +967,42 @@ If you find this work helpful, please cite our paper:
   biburl       = {https://dblp.org/rec/journals/corr/abs-2505-16410.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
+
+@article{dong2026agent,
+  author       = {Guanting Dong and
+                  Junting Lu and
+                  Junjie Huang and
+                  Wanjun Zhong and
+                  Longxiang Liu and
+                  Shijue Huang and
+                  Zhenyu Li and
+                  Yang Zhao and
+                  Xiaoshuai Song and
+                  Xiaoxi Li and
+                  Jiajie Jin and
+                  Yutao Zhu and
+                  Hanbin Wang and
+                  Fangyu Lei and
+                  Qinyu Luo and
+                  Mingyang Chen and
+                  Zehui Chen and
+                  Jiazhan Feng and
+                  Ji{-}Rong Wen and
+                  Zhicheng Dou},
+  title        = {Agent-World: Scaling Real-World Environment Synthesis for Evolving
+                  General Agent Intelligence},
+  journal      = {CoRR},
+  volume       = {abs/2604.18292},
+  year         = {2026},
+  url          = {https://doi.org/10.48550/arXiv.2604.18292},
+  doi          = {10.48550/ARXIV.2604.18292},
+  eprinttype   = {arXiv},
+  eprint       = {2604.18292},
+  timestamp    = {Fri, 10 Jul 2026 07:44:47 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2604-18292.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 ```
 
 
