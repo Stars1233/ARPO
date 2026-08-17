@@ -1022,4 +1022,4 @@ For any questions or feedback, please reach out to us at [dongguanting@ruc.edu.c
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dongguanting/ARPO&type=Date)](https://www.star-history.com/#dongguanting/ARPO&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=dongguanting/ARPO&type=Date)](https://star-history.dera.page/#dongguanting/ARPO&Date)
