@@ -77,6 +77,12 @@
 <!--  may -->
 
 
+> [**Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence (New!)**](https://arxiv.org/abs/2604.18292) <br>
+> **Authors:** Guanting Dong, Junting Lu, Junjie Huang, Wanjun Zhong, Longxiang Liu, Shijue Huang, Zhenyu Li, Yang Zhao, Xiaoshuai Song, Xiaoxi Li, Jiajie Jin, Yutao Zhu, Hanbin Wang, Fangyu Lei, Qinyu Luo, Mingyang Chen, Zehui Chen, Jiazhan Feng, Ji-Rong Wen, Zhicheng Dou† <br>
+> **TLDR:** A self-evolving training arena that scales real-world environment synthesis and continuously co-evolves agent policies with environments. <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/Agent-World) [![github](https://img.shields.io/github/stars/RUC-NLPIR/Agent-World.svg?style=social)](https://github.com/RUC-NLPIR/Agent-World) [![arXiv](https://img.shields.io/badge/Arxiv-2604.18292-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.18292) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2604.18292)
+
+
 > [**Agentic Entropy-Balanced Policy Optimization**]() <br>
 > **Authors:** Guanting Dong, Licheng Bao, Zhongyuan Wang, Kangzhi Zhao, Xiaoxi Li, Jiajie Jin, Jinghan Yang, Hangyu Mao, Fuzheng Zhang, Kun Gai, Guorui Zhou†, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou† <br>
 > **TLDR:** An agentic RL algorithm designed to balance entropy in both the rollout and policy update phases. <br>
@@ -93,7 +99,7 @@
 > **TLDR:** An end-to-end TIR post-training framework that empowers LLMs to autonomously interact with multi-tool environments through Self-Critic RL design<br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/Tool-Star) [![github](https://img.shields.io/github/stars/RUC-NLPIR/Tool-Star.svg?style=social)](https://github.com/RUC-NLPIR/Tool-Star) [![arXiv](https://img.shields.io/badge/Arxiv-2505.16410-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.16410) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2505.16410) [![Collection](https://img.shields.io/badge/Hugging%20Face-Dataset%20&%20Models-yellow?logo=huggingface)](https://huggingface.co/collections/dongguanting/tool-star-682fd73dfa508bf3f40da032) [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/_akhaliq/status/1925924431676821698)
 
-> [**DeepAgent: A General Reasoning Agent with Scalable Toolsets (New!)**](https://arxiv.org/abs/2510.21618) <br>
+> [**DeepAgent: A General Reasoning Agent with Scalable Toolsets**](https://arxiv.org/abs/2510.21618) <br>
 > **Authors:** Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Guanting Dong, Jiajie Jin, Yinuo Wang, Hao Wang, Yutao Zhu, Ji-Rong Wen, Yuan Lu, Zhicheng Dou <br>
 > **TLDR:** An end-to-end deep reasoning agent that performs autonomous thinking, tool discovery, and action execution with brain-inspired memory folding mechanism. <br>
 [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/RUC-NLPIR/DeepAgent) [![github](https://img.shields.io/github/stars/RUC-NLPIR/DeepAgent.svg?style=social)](https://github.com/RUC-NLPIR/DeepAgent) [![arXiv](https://img.shields.io/badge/Arxiv-2510.21618-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2510.21618) [![Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow?logo=huggingface)](https://huggingface.co/papers/2510.21618)
@@ -1022,4 +1028,4 @@ For any questions or feedback, please reach out to us at [dongguanting@ruc.edu.c
 
 ## Star History
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=dongguanting/ARPO&type=Date)](https://star-history.dera.page/#dongguanting/ARPO&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dongguanting/ARPO&type=Date)](https://www.star-history.com/#dongguanting/ARPO&Date)
